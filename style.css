@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(165, 244, 219);
+}
+
+.IxD{
+    padding-left: 100px;
+}
+
+.NavBar{
+    list-style: none;
+    background-color: rgb(197, 235, 132);
+    text-decoration: none;
+    font-size: 25px;
+    font-weight: bold;
+    border: 2px solid red;
+    padding: 25px;
+    text-align: center;
+}
+.NavBar a{
+    text-decoration: none;
+    color: darkcyan;
+    padding-left: 10px;
+}
+
+#image1{
+    margin-left: 0 ;
+    width: 400px;
+    border: 2px solid black;
+
+}
+p{
+    padding-left: 25px;
+}
+
+.Question{
+    background-color: rgb(217, 243, 133);
+}
